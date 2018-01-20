@@ -1,0 +1,49 @@
+#top-part {
+    margin-top: -150px;
+}
+
+.rounded-image {
+    border-radius: 50%;
+    height: 250px;
+    background-color: #00acc1;
+}
+
+.large-text {
+    font-size: xx-large;
+}
+
+.content-titles {
+    font-family: 'Delius', cursive;
+}
+
+.vertical-line {
+    display: block;
+    height: 100%;
+    background-color: black;
+}
+
+.my-video-container {
+. video-container;
+    margin-bottom: 5%;
+}
+
+.social-btn {
+    height: 30px;
+    width: 30px;
+}
+
+.quote-font {
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 32px;
+}
+
+.cover-background {
+    height: 100%;
+    width: 100%;
+    background-image: url('../img/cover-bg2.jpg');
+    position: absolute;
+}
+
+.default-cursor:hover {
+    cursor: default;
+}
